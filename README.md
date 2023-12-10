@@ -1,1 +1,2 @@
 # misc-shaders
+screen space shaders that involve very simple processing, it includes [pixelization shader](https://gameidea.org/2023/12/03/pixelization-shader/) for creating pixel art like style for 3d scenes & [dizziness shader](https://gameidea.org/2023/12/03/sea-sickness-shader-underwater-view-shader/) to simulate either underwater view or dizzy view. also, 3d refraction shader is incorporated in ocean shader post, so its contents can be found in ocean shader repository.
